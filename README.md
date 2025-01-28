@@ -21,9 +21,3 @@ Este repositório contém uma coleção de exercícios introdutórios em Python,
 - Python 3.6 ou superior instalado.  
 - Um editor de texto ou IDE (como VS Code, PyCharm ou Jupyter Notebook).
 - Google Colaboratory  
-
-## 📖 Como usar  
-
-1. Clone este repositório para o seu computador:  
-   ```bash
-   git clone https://github.com/Ediovan-Ribeiro/Python_exercicios.git
